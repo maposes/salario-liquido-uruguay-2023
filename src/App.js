@@ -128,14 +128,14 @@ class App extends React.Component {
           <footer className="footer">
             <div className="footer-about">
               <span className="footer-txt autor">
-                Creado por{" "}
+                Actualizado en 2023 por{" "}
                 <a
                   className="autor-link"
-                  href="https://www.linkedin.com/in/ismaelpadilla/"
+                  href="https://www.linkedin.com/in/maximiliano-poses-638479182/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Ismael Padilla.
+                  Maxi Poses
                 </a>
               </span>
               <span className="footer-txt ultimaActualizacion">
@@ -143,7 +143,7 @@ class App extends React.Component {
               </span>
             </div>
             <a
-              href="https://github.com/ismaelpadilla/salario-liquido-uruguay"
+              href="https://github.com/maposes/salario-liquido-uruguay-2023"
               aria-label="Source code"
               target="_blank"
               rel="noopener noreferrer"
