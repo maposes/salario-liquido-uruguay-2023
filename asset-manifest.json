@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/salario-liquido-uruguay-2023/static/css/main.7a8966a7.chunk.css",
+    "main.js": "/salario-liquido-uruguay-2023/static/js/main.2a127c91.chunk.js",
+    "main.js.map": "/salario-liquido-uruguay-2023/static/js/main.2a127c91.chunk.js.map",
+    "runtime-main.js": "/salario-liquido-uruguay-2023/static/js/runtime-main.f857924c.js",
+    "runtime-main.js.map": "/salario-liquido-uruguay-2023/static/js/runtime-main.f857924c.js.map",
+    "static/js/2.84c64ec2.chunk.js": "/salario-liquido-uruguay-2023/static/js/2.84c64ec2.chunk.js",
+    "static/js/2.84c64ec2.chunk.js.map": "/salario-liquido-uruguay-2023/static/js/2.84c64ec2.chunk.js.map",
+    "index.html": "/salario-liquido-uruguay-2023/index.html",
+    "static/css/main.7a8966a7.chunk.css.map": "/salario-liquido-uruguay-2023/static/css/main.7a8966a7.chunk.css.map",
+    "static/js/2.84c64ec2.chunk.js.LICENSE.txt": "/salario-liquido-uruguay-2023/static/js/2.84c64ec2.chunk.js.LICENSE.txt",
+    "static/media/githubLogo.090da05e.svg": "/salario-liquido-uruguay-2023/static/media/githubLogo.090da05e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f857924c.js",
+    "static/js/2.84c64ec2.chunk.js",
+    "static/css/main.7a8966a7.chunk.css",
+    "static/js/main.2a127c91.chunk.js"
+  ]
+}
