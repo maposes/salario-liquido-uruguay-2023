@@ -2,7 +2,7 @@
   "name": "salario-liquido-uruguay-2023",
   "version": "1.2.1",
   "private": true,
-  "homepage": "https://maposes.github.io/salario-liquido-uruguay-2023"
+  "homepage": "https://maposes.github.io/salario-liquido-uruguay-2023",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
