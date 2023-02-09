@@ -3,7 +3,7 @@
 ![Versión](https://img.shields.io/github/package-json/v/ismaelpadilla/salario-liquido-uruguay?label=versi%C3%B3n)
 ![Build y test](https://github.com/ismaelpadilla/salario-liquido-uruguay/workflows/Build%20y%20test/badge.svg)
 
-✔Actualizado para el 2022.
+✔Actualizado para el 2023.
 
 ----
 
