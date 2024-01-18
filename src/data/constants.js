@@ -1,7 +1,7 @@
 /**
- * Valor BPC 2023.
+ * Valor BPC 2024.
  */
-const BPC = 5660;
+const BPC = 6177;
 
 /**
  * Franjas de IPRF.
